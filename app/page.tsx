@@ -638,7 +638,7 @@ export default function Home() {
                   <li>2<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>（<ruby>木<rt>もく</rt></ruby>）<ruby>開催<rt>かいさい</rt></ruby></li>
                   <li>●「くらし」のプログラム： 13<ruby>時<rt>じ</rt></ruby>〜17<ruby>時<rt>じ</rt></ruby></li>
                   <li>●「あきない」のプログラム： 15<ruby>時<rt>じ</rt></ruby>〜19<ruby>時<rt>じ</rt></ruby></li>
-                  <li className="text-sm mt-2 text-gray-600">※<ruby>集合<rt>しゅうごう</rt></ruby>・<ruby>解散<rt>かいさん</rt></ruby>：<ruby>一身田<rt>いっしんでん</rt></ruby>の<ruby>館<rt>やかた</rt></ruby></li>
+                  <li className="text-sm mt-2 text-gray-600">※<ruby>集合<rt>しゅうごう</rt></ruby>・<ruby>解散<rt>かいさん</rt></ruby>：<ruby>寺内町<rt>じないちょう</rt></ruby>の<ruby>館<rt>やかた</rt></ruby></li>
                 </ul>
               </div>
 
