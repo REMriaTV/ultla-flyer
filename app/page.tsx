@@ -87,10 +87,10 @@ export default function Home() {
 
   // PDFダウンロード機能
   const downloadPDF = () => {
-    const pdfUrl = '/flyer.pdf';
+    const pdfUrl = '/flyer_v2.pdf';
     const link = document.createElement('a');
     link.href = pdfUrl;
-    link.download = 'flyer.pdf';
+    link.download = 'flyer_v2.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
